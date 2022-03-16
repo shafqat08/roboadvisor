@@ -1,0 +1,18 @@
+﻿Asset Class,ETF Name,Ticker,Expense Ratio
+US Stocks - Size (Large Cap),Vanguard S&P 500 ETF,VOO,0.03%
+Foreign Developed Stocks,Vanguard FTSE Developed Markets ETF,VEA,0.05%
+Emerging Market Stocks,iShares Core MSCI Emerging Markets ETF,IEMG,0.11%
+US Stocks - Growth (Large Cap),iShares S&P 500 Growth ETF,IVW,0.18%
+US Stocks - Growth (Small Cap),iShares Russell 2000 Growth ETF,IWO,0.24%
+US Stocks - Value (Large Cap),iShares S&P 500 Value ETF,IVE,0.18%
+US Stocks - Size (Small Cap),iShares Russell 2000 ETF,IWM,0.19%
+US Stocks - Momentum,iShares MSCI USA Momentum Factor ETF,MTUM,0.15%
+US Government Bonds - Long Term,iShares 7-10 Year Treasury Bond ETF,IEF,0.15%
+US Government Bonds - Short Term,iShares Short Treasury Bond ETF,SHV,0.15%
+Municipal Bonds,Vanguard Tax-Exempt Bond ETF,VTEB,0.06%
+TIPS,iShares TIPS Bond ETF,TIP,0.19%
+US Corporate Bonds - High Yield,iShares iBoxx $ High Yield Corporate Bond ETF,HYG,0.49%
+US Corporate Bonds - Investment Grade,iShares iBoxx $ Investment Grade Corporate Bond ETF,LQD,0.14%
+Emerging Market Bonds - USD,iShares J.P. Morgan USD Emerging Markets Bond ETF,EMB,0.39%
+Global Aggregate Bonds ex-US,Vanguard Total International Bond ETF,BNDX,0.08%
+Gold,iShares Gold Trust,IAU,0.25%
